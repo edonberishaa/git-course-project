@@ -3,3 +3,4 @@ Modification on another_file on feature-2 branch
 This file was modified locally!
 
 New line added on feature-2 branch
+New line after adding branch on remote branch feature-2
