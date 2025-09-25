@@ -1,3 +1,5 @@
-Just another file on feature-1 branch
+Modification on another_file on feature-2 branch
 
 This file was modified locally!
+
+New line added on feature-2 branch
